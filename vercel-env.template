@@ -1,0 +1,10 @@
+# Copy these to Vercel → Project → Settings → Environment Variables
+# Generate AUTH_SECRET: npm run generate:secret
+
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+AUTH_SECRET=
+AUTH_URL=https://YOUR-PROJECT.vercel.app

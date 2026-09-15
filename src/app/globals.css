@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --background: #faf7f2;
+  --foreground: #2c1810;
+  --burgundy: #7b1e3a;
+  --burgundy-dark: #5c1529;
+  --burgundy-light: #a83255;
+  --wood: #5d4037;
+  --wood-light: #8d6e63;
+  --cream: #f5efe6;
+  --gold: #c9a227;
+  --seat-available: #6B9B7A;
+  --seat-reserved: #C47070;
+  --seat-yours: #5B8FC7;
+  --seat-blocked: #B0A8A0;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-burgundy: var(--burgundy);
+  --color-burgundy-dark: var(--burgundy-dark);
+  --color-wood: var(--wood);
+  --color-cream: var(--cream);
+  --font-sans: var(--font-heebo);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-heebo), Arial, sans-serif;
+}
+
+.seat-btn {
+  transition: filter 0.12s ease, opacity 0.12s ease;
+}
+
+.seat-btn:hover .seat-shape {
+  filter: brightness(1.08);
+  stroke-width: 2.5;
+}
+
+.seat-btn.selected .seat-shape {
+  stroke: #c9a227;
+  stroke-width: 3;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}

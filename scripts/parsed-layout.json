@@ -1,0 +1,2124 @@
+{
+  "seats": [
+    {
+      "section": "men",
+      "number": 1,
+      "r": 4,
+      "c": 13,
+      "x": 536,
+      "y": 168
+    },
+    {
+      "section": "men",
+      "number": 2,
+      "r": 4,
+      "c": 14,
+      "x": 576,
+      "y": 168
+    },
+    {
+      "section": "men",
+      "number": 3,
+      "r": 4,
+      "c": 15,
+      "x": 616,
+      "y": 168
+    },
+    {
+      "section": "men",
+      "number": 86,
+      "r": 4,
+      "c": 25,
+      "x": 1016,
+      "y": 168
+    },
+    {
+      "section": "men",
+      "number": 87,
+      "r": 4,
+      "c": 26,
+      "x": 1056,
+      "y": 168
+    },
+    {
+      "section": "men",
+      "number": 88,
+      "r": 4,
+      "c": 27,
+      "x": 1096,
+      "y": 168
+    },
+    {
+      "section": "men",
+      "number": 4,
+      "r": 6,
+      "c": 12,
+      "x": 496,
+      "y": 244
+    },
+    {
+      "section": "men",
+      "number": 5,
+      "r": 6,
+      "c": 13,
+      "x": 536,
+      "y": 244
+    },
+    {
+      "section": "men",
+      "number": 6,
+      "r": 6,
+      "c": 14,
+      "x": 576,
+      "y": 244
+    },
+    {
+      "section": "men",
+      "number": 7,
+      "r": 6,
+      "c": 15,
+      "x": 616,
+      "y": 244
+    },
+    {
+      "section": "women",
+      "number": 37,
+      "r": 7,
+      "c": 6,
+      "x": 256,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 8,
+      "r": 7,
+      "c": 12,
+      "x": 496,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 9,
+      "r": 7,
+      "c": 13,
+      "x": 536,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 10,
+      "r": 7,
+      "c": 14,
+      "x": 576,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 11,
+      "r": 7,
+      "c": 15,
+      "x": 616,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 16,
+      "r": 7,
+      "c": 17,
+      "x": 696,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 17,
+      "r": 7,
+      "c": 18,
+      "x": 736,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 18,
+      "r": 7,
+      "c": 19,
+      "x": 776,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 19,
+      "r": 7,
+      "c": 20,
+      "x": 816,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 52,
+      "r": 7,
+      "c": 22,
+      "x": 896,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 53,
+      "r": 7,
+      "c": 23,
+      "x": 936,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 54,
+      "r": 7,
+      "c": 24,
+      "x": 976,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 55,
+      "r": 7,
+      "c": 25,
+      "x": 1016,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 89,
+      "r": 7,
+      "c": 27,
+      "x": 1096,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 90,
+      "r": 7,
+      "c": 28,
+      "x": 1136,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 91,
+      "r": 7,
+      "c": 29,
+      "x": 1176,
+      "y": 282
+    },
+    {
+      "section": "men",
+      "number": 92,
+      "r": 7,
+      "c": 30,
+      "x": 1216,
+      "y": 282
+    },
+    {
+      "section": "women",
+      "number": 38,
+      "r": 8,
+      "c": 6,
+      "x": 256,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 12,
+      "r": 8,
+      "c": 12,
+      "x": 496,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 13,
+      "r": 8,
+      "c": 13,
+      "x": 536,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 14,
+      "r": 8,
+      "c": 14,
+      "x": 576,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 15,
+      "r": 8,
+      "c": 15,
+      "x": 616,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 20,
+      "r": 8,
+      "c": 17,
+      "x": 696,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 21,
+      "r": 8,
+      "c": 18,
+      "x": 736,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 22,
+      "r": 8,
+      "c": 19,
+      "x": 776,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 23,
+      "r": 8,
+      "c": 20,
+      "x": 816,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 56,
+      "r": 8,
+      "c": 22,
+      "x": 896,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 57,
+      "r": 8,
+      "c": 23,
+      "x": 936,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 58,
+      "r": 8,
+      "c": 24,
+      "x": 976,
+      "y": 320
+    },
+    {
+      "section": "men",
+      "number": 59,
+      "r": 8,
+      "c": 25,
+      "x": 1016,
+      "y": 320
+    },
+    {
+      "section": "women",
+      "number": 39,
+      "r": 9,
+      "c": 6,
+      "x": 256,
+      "y": 358
+    },
+    {
+      "section": "men",
+      "number": 24,
+      "r": 9,
+      "c": 17,
+      "x": 696,
+      "y": 358
+    },
+    {
+      "section": "men",
+      "number": 25,
+      "r": 9,
+      "c": 18,
+      "x": 736,
+      "y": 358
+    },
+    {
+      "section": "men",
+      "number": 26,
+      "r": 9,
+      "c": 19,
+      "x": 776,
+      "y": 358
+    },
+    {
+      "section": "men",
+      "number": 27,
+      "r": 9,
+      "c": 20,
+      "x": 816,
+      "y": 358
+    },
+    {
+      "section": "men",
+      "number": 60,
+      "r": 9,
+      "c": 22,
+      "x": 896,
+      "y": 358
+    },
+    {
+      "section": "men",
+      "number": 61,
+      "r": 9,
+      "c": 23,
+      "x": 936,
+      "y": 358
+    },
+    {
+      "section": "men",
+      "number": 62,
+      "r": 9,
+      "c": 24,
+      "x": 976,
+      "y": 358
+    },
+    {
+      "section": "men",
+      "number": 63,
+      "r": 9,
+      "c": 25,
+      "x": 1016,
+      "y": 358
+    },
+    {
+      "section": "women",
+      "number": 40,
+      "r": 10,
+      "c": 6,
+      "x": 256,
+      "y": 396
+    },
+    {
+      "section": "men",
+      "number": 64,
+      "r": 10,
+      "c": 24,
+      "x": 976,
+      "y": 396
+    },
+    {
+      "section": "men",
+      "number": 65,
+      "r": 10,
+      "c": 25,
+      "x": 1016,
+      "y": 396
+    },
+    {
+      "section": "women",
+      "number": 41,
+      "r": 11,
+      "c": 9,
+      "x": 376,
+      "y": 434
+    },
+    {
+      "section": "women",
+      "number": 42,
+      "r": 11,
+      "c": 10,
+      "x": 416,
+      "y": 434
+    },
+    {
+      "section": "women",
+      "number": 43,
+      "r": 11,
+      "c": 11,
+      "x": 456,
+      "y": 434
+    },
+    {
+      "section": "women",
+      "number": 44,
+      "r": 11,
+      "c": 12,
+      "x": 496,
+      "y": 434
+    },
+    {
+      "section": "women",
+      "number": 1,
+      "r": 14,
+      "c": 1,
+      "x": 56,
+      "y": 548
+    },
+    {
+      "section": "women",
+      "number": 2,
+      "r": 14,
+      "c": 2,
+      "x": 96,
+      "y": 548
+    },
+    {
+      "section": "women",
+      "number": 3,
+      "r": 14,
+      "c": 3,
+      "x": 136,
+      "y": 548
+    },
+    {
+      "section": "women",
+      "number": 19,
+      "r": 14,
+      "c": 5,
+      "x": 216,
+      "y": 548
+    },
+    {
+      "section": "women",
+      "number": 20,
+      "r": 14,
+      "c": 6,
+      "x": 256,
+      "y": 548
+    },
+    {
+      "section": "women",
+      "number": 21,
+      "r": 14,
+      "c": 7,
+      "x": 296,
+      "y": 548
+    },
+    {
+      "section": "women",
+      "number": 45,
+      "r": 14,
+      "c": 9,
+      "x": 376,
+      "y": 548
+    },
+    {
+      "section": "women",
+      "number": 46,
+      "r": 14,
+      "c": 10,
+      "x": 416,
+      "y": 548
+    },
+    {
+      "section": "women",
+      "number": 47,
+      "r": 14,
+      "c": 11,
+      "x": 456,
+      "y": 548
+    },
+    {
+      "section": "women",
+      "number": 48,
+      "r": 14,
+      "c": 12,
+      "x": 496,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 32,
+      "r": 14,
+      "c": 17,
+      "x": 696,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 33,
+      "r": 14,
+      "c": 18,
+      "x": 736,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 34,
+      "r": 14,
+      "c": 19,
+      "x": 776,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 35,
+      "r": 14,
+      "c": 20,
+      "x": 816,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 66,
+      "r": 14,
+      "c": 22,
+      "x": 896,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 67,
+      "r": 14,
+      "c": 23,
+      "x": 936,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 68,
+      "r": 14,
+      "c": 24,
+      "x": 976,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 69,
+      "r": 14,
+      "c": 25,
+      "x": 1016,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 93,
+      "r": 14,
+      "c": 27,
+      "x": 1096,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 94,
+      "r": 14,
+      "c": 28,
+      "x": 1136,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 95,
+      "r": 14,
+      "c": 29,
+      "x": 1176,
+      "y": 548
+    },
+    {
+      "section": "men",
+      "number": 96,
+      "r": 14,
+      "c": 30,
+      "x": 1216,
+      "y": 548
+    },
+    {
+      "section": "women",
+      "number": 4,
+      "r": 15,
+      "c": 1,
+      "x": 56,
+      "y": 586
+    },
+    {
+      "section": "women",
+      "number": 5,
+      "r": 15,
+      "c": 2,
+      "x": 96,
+      "y": 586
+    },
+    {
+      "section": "women",
+      "number": 6,
+      "r": 15,
+      "c": 3,
+      "x": 136,
+      "y": 586
+    },
+    {
+      "section": "women",
+      "number": 22,
+      "r": 15,
+      "c": 5,
+      "x": 216,
+      "y": 586
+    },
+    {
+      "section": "women",
+      "number": 23,
+      "r": 15,
+      "c": 6,
+      "x": 256,
+      "y": 586
+    },
+    {
+      "section": "women",
+      "number": 24,
+      "r": 15,
+      "c": 7,
+      "x": 296,
+      "y": 586
+    },
+    {
+      "section": "women",
+      "number": 49,
+      "r": 15,
+      "c": 9,
+      "x": 376,
+      "y": 586
+    },
+    {
+      "section": "women",
+      "number": 50,
+      "r": 15,
+      "c": 10,
+      "x": 416,
+      "y": 586
+    },
+    {
+      "section": "women",
+      "number": 51,
+      "r": 15,
+      "c": 11,
+      "x": 456,
+      "y": 586
+    },
+    {
+      "section": "women",
+      "number": 52,
+      "r": 15,
+      "c": 12,
+      "x": 496,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 36,
+      "r": 15,
+      "c": 17,
+      "x": 696,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 37,
+      "r": 15,
+      "c": 18,
+      "x": 736,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 38,
+      "r": 15,
+      "c": 19,
+      "x": 776,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 39,
+      "r": 15,
+      "c": 20,
+      "x": 816,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 70,
+      "r": 15,
+      "c": 22,
+      "x": 896,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 71,
+      "r": 15,
+      "c": 23,
+      "x": 936,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 72,
+      "r": 15,
+      "c": 24,
+      "x": 976,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 73,
+      "r": 15,
+      "c": 25,
+      "x": 1016,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 97,
+      "r": 15,
+      "c": 27,
+      "x": 1096,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 98,
+      "r": 15,
+      "c": 28,
+      "x": 1136,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 99,
+      "r": 15,
+      "c": 29,
+      "x": 1176,
+      "y": 586
+    },
+    {
+      "section": "men",
+      "number": 100,
+      "r": 15,
+      "c": 30,
+      "x": 1216,
+      "y": 586
+    },
+    {
+      "section": "women",
+      "number": 7,
+      "r": 16,
+      "c": 1,
+      "x": 56,
+      "y": 624
+    },
+    {
+      "section": "women",
+      "number": 8,
+      "r": 16,
+      "c": 2,
+      "x": 96,
+      "y": 624
+    },
+    {
+      "section": "women",
+      "number": 9,
+      "r": 16,
+      "c": 3,
+      "x": 136,
+      "y": 624
+    },
+    {
+      "section": "women",
+      "number": 25,
+      "r": 16,
+      "c": 5,
+      "x": 216,
+      "y": 624
+    },
+    {
+      "section": "women",
+      "number": 26,
+      "r": 16,
+      "c": 6,
+      "x": 256,
+      "y": 624
+    },
+    {
+      "section": "women",
+      "number": 27,
+      "r": 16,
+      "c": 7,
+      "x": 296,
+      "y": 624
+    },
+    {
+      "section": "women",
+      "number": 53,
+      "r": 16,
+      "c": 9,
+      "x": 376,
+      "y": 624
+    },
+    {
+      "section": "women",
+      "number": 54,
+      "r": 16,
+      "c": 10,
+      "x": 416,
+      "y": 624
+    },
+    {
+      "section": "women",
+      "number": 55,
+      "r": 16,
+      "c": 11,
+      "x": 456,
+      "y": 624
+    },
+    {
+      "section": "women",
+      "number": 56,
+      "r": 16,
+      "c": 12,
+      "x": 496,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 40,
+      "r": 16,
+      "c": 17,
+      "x": 696,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 41,
+      "r": 16,
+      "c": 18,
+      "x": 736,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 42,
+      "r": 16,
+      "c": 19,
+      "x": 776,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 43,
+      "r": 16,
+      "c": 20,
+      "x": 816,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 74,
+      "r": 16,
+      "c": 22,
+      "x": 896,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 75,
+      "r": 16,
+      "c": 23,
+      "x": 936,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 76,
+      "r": 16,
+      "c": 24,
+      "x": 976,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 77,
+      "r": 16,
+      "c": 25,
+      "x": 1016,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 101,
+      "r": 16,
+      "c": 27,
+      "x": 1096,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 102,
+      "r": 16,
+      "c": 28,
+      "x": 1136,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 103,
+      "r": 16,
+      "c": 29,
+      "x": 1176,
+      "y": 624
+    },
+    {
+      "section": "men",
+      "number": 104,
+      "r": 16,
+      "c": 30,
+      "x": 1216,
+      "y": 624
+    },
+    {
+      "section": "women",
+      "number": 10,
+      "r": 17,
+      "c": 1,
+      "x": 56,
+      "y": 662
+    },
+    {
+      "section": "women",
+      "number": 11,
+      "r": 17,
+      "c": 2,
+      "x": 96,
+      "y": 662
+    },
+    {
+      "section": "women",
+      "number": 12,
+      "r": 17,
+      "c": 3,
+      "x": 136,
+      "y": 662
+    },
+    {
+      "section": "women",
+      "number": 28,
+      "r": 17,
+      "c": 5,
+      "x": 216,
+      "y": 662
+    },
+    {
+      "section": "women",
+      "number": 29,
+      "r": 17,
+      "c": 6,
+      "x": 256,
+      "y": 662
+    },
+    {
+      "section": "women",
+      "number": 30,
+      "r": 17,
+      "c": 7,
+      "x": 296,
+      "y": 662
+    },
+    {
+      "section": "women",
+      "number": 57,
+      "r": 17,
+      "c": 9,
+      "x": 376,
+      "y": 662
+    },
+    {
+      "section": "women",
+      "number": 58,
+      "r": 17,
+      "c": 10,
+      "x": 416,
+      "y": 662
+    },
+    {
+      "section": "women",
+      "number": 59,
+      "r": 17,
+      "c": 11,
+      "x": 456,
+      "y": 662
+    },
+    {
+      "section": "women",
+      "number": 60,
+      "r": 17,
+      "c": 12,
+      "x": 496,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 44,
+      "r": 17,
+      "c": 17,
+      "x": 696,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 45,
+      "r": 17,
+      "c": 18,
+      "x": 736,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 46,
+      "r": 17,
+      "c": 19,
+      "x": 776,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 47,
+      "r": 17,
+      "c": 20,
+      "x": 816,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 78,
+      "r": 17,
+      "c": 22,
+      "x": 896,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 79,
+      "r": 17,
+      "c": 23,
+      "x": 936,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 80,
+      "r": 17,
+      "c": 24,
+      "x": 976,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 81,
+      "r": 17,
+      "c": 25,
+      "x": 1016,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 105,
+      "r": 17,
+      "c": 27,
+      "x": 1096,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 106,
+      "r": 17,
+      "c": 28,
+      "x": 1136,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 107,
+      "r": 17,
+      "c": 29,
+      "x": 1176,
+      "y": 662
+    },
+    {
+      "section": "men",
+      "number": 108,
+      "r": 17,
+      "c": 30,
+      "x": 1216,
+      "y": 662
+    },
+    {
+      "section": "women",
+      "number": 13,
+      "r": 18,
+      "c": 1,
+      "x": 56,
+      "y": 700
+    },
+    {
+      "section": "women",
+      "number": 14,
+      "r": 18,
+      "c": 2,
+      "x": 96,
+      "y": 700
+    },
+    {
+      "section": "women",
+      "number": 15,
+      "r": 18,
+      "c": 3,
+      "x": 136,
+      "y": 700
+    },
+    {
+      "section": "women",
+      "number": 31,
+      "r": 18,
+      "c": 5,
+      "x": 216,
+      "y": 700
+    },
+    {
+      "section": "women",
+      "number": 32,
+      "r": 18,
+      "c": 6,
+      "x": 256,
+      "y": 700
+    },
+    {
+      "section": "women",
+      "number": 33,
+      "r": 18,
+      "c": 7,
+      "x": 296,
+      "y": 700
+    },
+    {
+      "section": "women",
+      "number": 61,
+      "r": 18,
+      "c": 9,
+      "x": 376,
+      "y": 700
+    },
+    {
+      "section": "women",
+      "number": 62,
+      "r": 18,
+      "c": 10,
+      "x": 416,
+      "y": 700
+    },
+    {
+      "section": "women",
+      "number": 63,
+      "r": 18,
+      "c": 11,
+      "x": 456,
+      "y": 700
+    },
+    {
+      "section": "women",
+      "number": 64,
+      "r": 18,
+      "c": 12,
+      "x": 496,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 48,
+      "r": 18,
+      "c": 17,
+      "x": 696,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 49,
+      "r": 18,
+      "c": 18,
+      "x": 736,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 50,
+      "r": 18,
+      "c": 19,
+      "x": 776,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 51,
+      "r": 18,
+      "c": 20,
+      "x": 816,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 82,
+      "r": 18,
+      "c": 22,
+      "x": 896,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 83,
+      "r": 18,
+      "c": 23,
+      "x": 936,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 84,
+      "r": 18,
+      "c": 24,
+      "x": 976,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 85,
+      "r": 18,
+      "c": 25,
+      "x": 1016,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 109,
+      "r": 18,
+      "c": 27,
+      "x": 1096,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 110,
+      "r": 18,
+      "c": 28,
+      "x": 1136,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 111,
+      "r": 18,
+      "c": 29,
+      "x": 1176,
+      "y": 700
+    },
+    {
+      "section": "men",
+      "number": 112,
+      "r": 18,
+      "c": 30,
+      "x": 1216,
+      "y": 700
+    },
+    {
+      "section": "women",
+      "number": 16,
+      "r": 19,
+      "c": 1,
+      "x": 56,
+      "y": 738
+    },
+    {
+      "section": "women",
+      "number": 17,
+      "r": 19,
+      "c": 2,
+      "x": 96,
+      "y": 738
+    },
+    {
+      "section": "women",
+      "number": 18,
+      "r": 19,
+      "c": 3,
+      "x": 136,
+      "y": 738
+    },
+    {
+      "section": "women",
+      "number": 34,
+      "r": 19,
+      "c": 5,
+      "x": 216,
+      "y": 738
+    },
+    {
+      "section": "women",
+      "number": 35,
+      "r": 19,
+      "c": 6,
+      "x": 256,
+      "y": 738
+    },
+    {
+      "section": "women",
+      "number": 36,
+      "r": 19,
+      "c": 7,
+      "x": 296,
+      "y": 738
+    },
+    {
+      "section": "women",
+      "number": 65,
+      "r": 19,
+      "c": 9,
+      "x": 376,
+      "y": 738
+    },
+    {
+      "section": "women",
+      "number": 66,
+      "r": 19,
+      "c": 10,
+      "x": 416,
+      "y": 738
+    },
+    {
+      "section": "women",
+      "number": 67,
+      "r": 19,
+      "c": 11,
+      "x": 456,
+      "y": 738
+    },
+    {
+      "section": "women",
+      "number": 68,
+      "r": 19,
+      "c": 12,
+      "x": 496,
+      "y": 738
+    },
+    {
+      "section": "men",
+      "number": 113,
+      "r": 19,
+      "c": 27,
+      "x": 1096,
+      "y": 738
+    },
+    {
+      "section": "men",
+      "number": 114,
+      "r": 19,
+      "c": 28,
+      "x": 1136,
+      "y": 738
+    },
+    {
+      "section": "men",
+      "number": 115,
+      "r": 19,
+      "c": 29,
+      "x": 1176,
+      "y": 738
+    },
+    {
+      "section": "men",
+      "number": 116,
+      "r": 19,
+      "c": 30,
+      "x": 1216,
+      "y": 738
+    }
+  ],
+  "labels": [
+    {
+      "type": "entrance",
+      "label": "כניסה גברים",
+      "section": "men",
+      "x": 376,
+      "y": 130,
+      "r": 3,
+      "c": 9
+    },
+    {
+      "type": "aron",
+      "label": "ארון קודש",
+      "x": 776,
+      "y": 168,
+      "r": 4,
+      "c": 19
+    },
+    {
+      "type": "entrance",
+      "label": "כניסה גברים",
+      "section": "men",
+      "x": 1176,
+      "y": 168,
+      "r": 4,
+      "c": 29
+    },
+    {
+      "type": "blocked",
+      "label": "X",
+      "x": 456,
+      "y": 244,
+      "r": 6,
+      "c": 11
+    },
+    {
+      "type": "entrance",
+      "label": "כניסה נשים",
+      "section": "women",
+      "x": 56,
+      "y": 358,
+      "r": 9,
+      "c": 1
+    },
+    {
+      "type": "bima",
+      "label": "בימה",
+      "x": 776,
+      "y": 434,
+      "r": 11,
+      "c": 19
+    }
+  ],
+  "menBenches": [
+    {
+      "row": 1,
+      "numbers": [
+        1,
+        2,
+        3
+      ],
+      "x": 536,
+      "y": 168,
+      "vertical": false
+    },
+    {
+      "row": 2,
+      "numbers": [
+        86,
+        87,
+        88
+      ],
+      "x": 1016,
+      "y": 168,
+      "vertical": false
+    },
+    {
+      "row": 3,
+      "numbers": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "x": 496,
+      "y": 244,
+      "vertical": false
+    },
+    {
+      "row": 4,
+      "numbers": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "x": 496,
+      "y": 282,
+      "vertical": false
+    },
+    {
+      "row": 5,
+      "numbers": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "x": 696,
+      "y": 282,
+      "vertical": false
+    },
+    {
+      "row": 6,
+      "numbers": [
+        52,
+        53,
+        54,
+        55
+      ],
+      "x": 896,
+      "y": 282,
+      "vertical": false
+    },
+    {
+      "row": 7,
+      "numbers": [
+        89,
+        90,
+        91,
+        92
+      ],
+      "x": 1096,
+      "y": 282,
+      "vertical": false
+    },
+    {
+      "row": 8,
+      "numbers": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "x": 496,
+      "y": 320,
+      "vertical": false
+    },
+    {
+      "row": 9,
+      "numbers": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "x": 696,
+      "y": 320,
+      "vertical": false
+    },
+    {
+      "row": 10,
+      "numbers": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "x": 896,
+      "y": 320,
+      "vertical": false
+    },
+    {
+      "row": 11,
+      "numbers": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "x": 696,
+      "y": 358,
+      "vertical": false
+    },
+    {
+      "row": 12,
+      "numbers": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "x": 896,
+      "y": 358,
+      "vertical": false
+    },
+    {
+      "row": 13,
+      "numbers": [
+        64,
+        65
+      ],
+      "x": 976,
+      "y": 396,
+      "vertical": false
+    },
+    {
+      "row": 14,
+      "numbers": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "x": 696,
+      "y": 548,
+      "vertical": false
+    },
+    {
+      "row": 15,
+      "numbers": [
+        66,
+        67,
+        68,
+        69
+      ],
+      "x": 896,
+      "y": 548,
+      "vertical": false
+    },
+    {
+      "row": 16,
+      "numbers": [
+        93,
+        94,
+        95,
+        96
+      ],
+      "x": 1096,
+      "y": 548,
+      "vertical": false
+    },
+    {
+      "row": 17,
+      "numbers": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "x": 696,
+      "y": 586,
+      "vertical": false
+    },
+    {
+      "row": 18,
+      "numbers": [
+        70,
+        71,
+        72,
+        73
+      ],
+      "x": 896,
+      "y": 586,
+      "vertical": false
+    },
+    {
+      "row": 19,
+      "numbers": [
+        97,
+        98,
+        99,
+        100
+      ],
+      "x": 1096,
+      "y": 586,
+      "vertical": false
+    },
+    {
+      "row": 20,
+      "numbers": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "x": 696,
+      "y": 624,
+      "vertical": false
+    },
+    {
+      "row": 21,
+      "numbers": [
+        74,
+        75,
+        76,
+        77
+      ],
+      "x": 896,
+      "y": 624,
+      "vertical": false
+    },
+    {
+      "row": 22,
+      "numbers": [
+        101,
+        102,
+        103,
+        104
+      ],
+      "x": 1096,
+      "y": 624,
+      "vertical": false
+    },
+    {
+      "row": 23,
+      "numbers": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "x": 696,
+      "y": 662,
+      "vertical": false
+    },
+    {
+      "row": 24,
+      "numbers": [
+        78,
+        79,
+        80,
+        81
+      ],
+      "x": 896,
+      "y": 662,
+      "vertical": false
+    },
+    {
+      "row": 25,
+      "numbers": [
+        105,
+        106,
+        107,
+        108
+      ],
+      "x": 1096,
+      "y": 662,
+      "vertical": false
+    },
+    {
+      "row": 26,
+      "numbers": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "x": 696,
+      "y": 700,
+      "vertical": false
+    },
+    {
+      "row": 27,
+      "numbers": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "x": 896,
+      "y": 700,
+      "vertical": false
+    },
+    {
+      "row": 28,
+      "numbers": [
+        109,
+        110,
+        111,
+        112
+      ],
+      "x": 1096,
+      "y": 700,
+      "vertical": false
+    },
+    {
+      "row": 29,
+      "numbers": [
+        113,
+        114,
+        115,
+        116
+      ],
+      "x": 1096,
+      "y": 738,
+      "vertical": false
+    }
+  ],
+  "womenBenches": [
+    {
+      "row": 1,
+      "numbers": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "x": 256,
+      "y": 282,
+      "vertical": true
+    },
+    {
+      "row": 2,
+      "numbers": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "x": 376,
+      "y": 434,
+      "vertical": false
+    },
+    {
+      "row": 3,
+      "numbers": [
+        1,
+        2,
+        3
+      ],
+      "x": 56,
+      "y": 548,
+      "vertical": false
+    },
+    {
+      "row": 4,
+      "numbers": [
+        19,
+        20,
+        21
+      ],
+      "x": 216,
+      "y": 548,
+      "vertical": false
+    },
+    {
+      "row": 5,
+      "numbers": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "x": 376,
+      "y": 548,
+      "vertical": false
+    },
+    {
+      "row": 6,
+      "numbers": [
+        4,
+        5,
+        6
+      ],
+      "x": 56,
+      "y": 586,
+      "vertical": false
+    },
+    {
+      "row": 7,
+      "numbers": [
+        22,
+        23,
+        24
+      ],
+      "x": 216,
+      "y": 586,
+      "vertical": false
+    },
+    {
+      "row": 8,
+      "numbers": [
+        49,
+        50,
+        51,
+        52
+      ],
+      "x": 376,
+      "y": 586,
+      "vertical": false
+    },
+    {
+      "row": 9,
+      "numbers": [
+        7,
+        8,
+        9
+      ],
+      "x": 56,
+      "y": 624,
+      "vertical": false
+    },
+    {
+      "row": 10,
+      "numbers": [
+        25,
+        26,
+        27
+      ],
+      "x": 216,
+      "y": 624,
+      "vertical": false
+    },
+    {
+      "row": 11,
+      "numbers": [
+        53,
+        54,
+        55,
+        56
+      ],
+      "x": 376,
+      "y": 624,
+      "vertical": false
+    },
+    {
+      "row": 12,
+      "numbers": [
+        10,
+        11,
+        12
+      ],
+      "x": 56,
+      "y": 662,
+      "vertical": false
+    },
+    {
+      "row": 13,
+      "numbers": [
+        28,
+        29,
+        30
+      ],
+      "x": 216,
+      "y": 662,
+      "vertical": false
+    },
+    {
+      "row": 14,
+      "numbers": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "x": 376,
+      "y": 662,
+      "vertical": false
+    },
+    {
+      "row": 15,
+      "numbers": [
+        13,
+        14,
+        15
+      ],
+      "x": 56,
+      "y": 700,
+      "vertical": false
+    },
+    {
+      "row": 16,
+      "numbers": [
+        31,
+        32,
+        33
+      ],
+      "x": 216,
+      "y": 700,
+      "vertical": false
+    },
+    {
+      "row": 17,
+      "numbers": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "x": 376,
+      "y": 700,
+      "vertical": false
+    },
+    {
+      "row": 18,
+      "numbers": [
+        16,
+        17,
+        18
+      ],
+      "x": 56,
+      "y": 738,
+      "vertical": false
+    },
+    {
+      "row": 19,
+      "numbers": [
+        34,
+        35,
+        36
+      ],
+      "x": 216,
+      "y": 738,
+      "vertical": false
+    },
+    {
+      "row": 20,
+      "numbers": [
+        65,
+        66,
+        67,
+        68
+      ],
+      "x": 376,
+      "y": 738,
+      "vertical": false
+    }
+  ],
+  "MAP_WIDTH": 1312,
+  "MAP_HEIGHT": 830,
+  "menV": {
+    "count": 112,
+    "unique": 112,
+    "missing": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "dupes": []
+  },
+  "womenV": {
+    "count": 68,
+    "unique": 68,
+    "missing": [],
+    "dupes": []
+  },
+  "MECHITZA": {
+    "topVerticalX": 356,
+    "splitY": 509,
+    "dividerX": 615,
+    "strokeWidth": 14
+  },
+  "blockedAreas": [
+    {
+      "x": 16,
+      "y": 54,
+      "width": 158,
+      "height": 188
+    },
+    {
+      "x": 216,
+      "y": 54,
+      "width": 38,
+      "height": 188
+    },
+    {
+      "x": 1176,
+      "y": 358,
+      "width": 78,
+      "height": 150
+    },
+    {
+      "x": 456,
+      "y": 244,
+      "width": 38,
+      "height": 36
+    }
+  ]
+}
