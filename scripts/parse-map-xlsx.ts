@@ -24,17 +24,20 @@ export const ROW_STEP = SEAT_H + SEAT_GAP;
 const ORIGIN_X = 16;
 const ORIGIN_Y = 16;
 
-/** Stepped mechitza — lines run through aisles, not over seat cells */
-const womenRow4144Bottom = ORIGIN_Y + 11 * ROW_STEP + SEAT_H; // grid r=11 → seats 41–44
-const womenRow45Top = ORIGIN_Y + 14 * ROW_STEP; // grid r=14 → seats 45–48
+/** Stepped mechitza — horizontal step above row 41–44, not between 41–44 and 45–48 */
 const womenEastEdge = ORIGIN_X + 12 * COL_STEP + SEAT_W; // col 12 (seat 44)
 const menWestEdge = ORIGIN_X + 17 * COL_STEP; // col 17 (men block starts)
+const STROKE_WIDTH = 14;
+
+const row45Y = ORIGIN_Y + 14 * ROW_STEP; // 548 — seats 45–48
+const row4144Y = row45Y - ROW_STEP; // 510 — stacked above 45–48
+const splitY = row4144Y - STROKE_WIDTH / 2 - SEAT_GAP; // 501 — line above row 41–44
 
 export const MECHITZA = {
   topVerticalX: ORIGIN_X + 8 * COL_STEP + COL_STEP / 2, // aisle between cols 7 and 9
-  splitY: (womenRow4144Bottom + womenRow45Top) / 2, // aisle between rows 41–44 and 45+
+  splitY,
   dividerX: (womenEastEdge + menWestEdge) / 2, // aisle east of col 12, west of men
-  strokeWidth: 14,
+  strokeWidth: STROKE_WIDTH,
 } as const;
 
 type Section = "men" | "women";
@@ -101,7 +104,7 @@ function compactWomenBottomColumns(seat: ParsedSeat) {
 function isWomenCell(r: number, c: number, n: number): boolean {
   // 37-40 — עמודה עליונה ליד כניסת נשים
   if (n >= 37 && n <= 40 && c === 6 && r >= 7 && r <= 10) return true;
-  // 41-44 — שורה מתחת למחיצה
+  // 41-44 — עזרת נשים, מתחת למחיצה האופקית
   if (n >= 41 && n <= 44 && r === 11 && c >= 10 && c <= 13) return true;
   // גריד תחתון: 1-18 (עמ' 1-3), 19-36 (עמ' 5-7), 45-68 (עמ' 10-13)
   if (r >= 14 && r <= 19) {
@@ -153,6 +156,17 @@ function validate(section: Section, expected: number) {
   const dupes = nums.filter((n, i) => nums.indexOf(n) !== i);
   return { count: list.length, unique: new Set(nums).size, missing, dupes: [...new Set(dupes)] };
 }
+
+/** Row 41–44: directly above row 45–48, below mechitza horizontal stroke */
+function alignWomen4144Block() {
+  for (const seat of seats) {
+    if (seat.section === "women" && seat.number >= 41 && seat.number <= 44) {
+      seat.y = row4144Y;
+    }
+  }
+}
+
+alignWomen4144Block();
 
 const menV = validate("men", 116);
 const womenV = validate("women", 68);

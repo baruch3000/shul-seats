@@ -8,7 +8,7 @@ export const SEAT_GAP = 2;
 /** Stepped mechitza: down from top → horizontal in aisle → down between blocks */
 export const mechitzaLayout = {
   topVerticalX: 356,
-  splitY: 509,
+  splitY: 501,
   dividerX: 615,
   strokeWidth: 14,
 } as const;
@@ -47,7 +47,7 @@ const menBenches: BenchLayout[] = [
 
 const womenBenches: BenchLayout[] = [
   { section: "women", row: 1, seats: [{ number: 37, x: 256, y: 282 }, { number: 38, x: 256, y: 320 }, { number: 39, x: 256, y: 358 }, { number: 40, x: 256, y: 396 }] },
-  { section: "women", row: 2, seats: [{ number: 41, x: 376, y: 434 }, { number: 42, x: 416, y: 434 }, { number: 43, x: 456, y: 434 }, { number: 44, x: 496, y: 434 }] },
+  { section: "women", row: 2, seats: [{ number: 41, x: 376, y: 510 }, { number: 42, x: 416, y: 510 }, { number: 43, x: 456, y: 510 }, { number: 44, x: 496, y: 510 }] },
   { section: "women", row: 3, seats: [{ number: 1, x: 56, y: 548 }, { number: 2, x: 96, y: 548 }, { number: 3, x: 136, y: 548 }] },
   { section: "women", row: 4, seats: [{ number: 19, x: 216, y: 548 }, { number: 20, x: 256, y: 548 }, { number: 21, x: 296, y: 548 }] },
   { section: "women", row: 5, seats: [{ number: 45, x: 376, y: 548 }, { number: 46, x: 416, y: 548 }, { number: 47, x: 456, y: 548 }, { number: 48, x: 496, y: 548 }] },

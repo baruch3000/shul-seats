@@ -253,7 +253,14 @@ export function SeatMap({
                 height={FULL_MAP_HEIGHT - mechitzaLayout.splitY}
                 fill="#FFF9F3"
               />
-              <rect x={0} y={160} width={mechitzaLayout.dividerX} height={260} fill="#F5EDE4" opacity={0.55} />
+              <rect
+                x={0}
+                y={160}
+                width={mechitzaLayout.dividerX}
+                height={mechitzaLayout.splitY - 160}
+                fill="#F5EDE4"
+                opacity={0.55}
+              />
               <path
                 d={`M ${mechitzaLayout.topVerticalX} 0 L ${mechitzaLayout.topVerticalX} ${mechitzaLayout.splitY} L ${mechitzaLayout.dividerX} ${mechitzaLayout.splitY} L ${mechitzaLayout.dividerX} ${FULL_MAP_HEIGHT}`}
                 fill="none"
